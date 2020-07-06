@@ -1,6 +1,6 @@
 # Solid-Java-Example
 
-##Exemplos básicos utilizando os principios do SOLID
+## Exemplos básicos utilizando os principios do SOLID
 
-- Single Responsibility - [srp](./srp) 
+- Single Responsibility - [srp](/srp) 
 
