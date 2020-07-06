@@ -1,0 +1,6 @@
+package dip;
+
+public interface Printer {
+	
+	void print(String text);
+}
